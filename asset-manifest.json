@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/desafio_furia/static/css/main.722eafe8.css",
+    "main.css": "/desafio_furia/static/css/main.3ce7bc41.css",
     "main.js": "/desafio_furia/static/js/main.dba92298.js",
     "static/media/furia3.jpg": "/desafio_furia/static/media/furia3.a94ca2ebcc3e4b0ff71c.jpg",
     "static/media/furia2.jpg": "/desafio_furia/static/media/furia2.849fa500c180aa611717.jpg",
     "static/media/furia1.jpg": "/desafio_furia/static/media/furia1.9ebf9ab819c41099c0b7.jpg",
     "static/media/furia4.jpg": "/desafio_furia/static/media/furia4.a61d7f21b6077b1fe9ee.jpg",
     "index.html": "/desafio_furia/index.html",
-    "main.722eafe8.css.map": "/desafio_furia/static/css/main.722eafe8.css.map",
+    "main.3ce7bc41.css.map": "/desafio_furia/static/css/main.3ce7bc41.css.map",
     "main.dba92298.js.map": "/desafio_furia/static/js/main.dba92298.js.map"
   },
   "entrypoints": [
-    "static/css/main.722eafe8.css",
+    "static/css/main.3ce7bc41.css",
     "static/js/main.dba92298.js"
   ]
 }
