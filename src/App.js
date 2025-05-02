@@ -4,7 +4,7 @@ import './Home.js';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/desafio_furia">
       <Routes>
         {/* Redireciona da raiz '/' para a página desejada, ex: '/dashboard' */}
         <Route path="/" element={<Navigate to="/home" />} />
